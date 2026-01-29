@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://ia601801.us.archive.org/1/items/tvtunes_18500/Up%20-%20Married%20Life.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dndxb5dkk/video/upload/sp_auto/v1769647651/enl4piwcpmhreldcpax5.m3u8", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
